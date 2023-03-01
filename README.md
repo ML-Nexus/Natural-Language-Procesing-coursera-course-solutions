@@ -42,6 +42,6 @@
 
 [Will-be-uploaded-soon-C2_W4_Assignment]()
 
-[Link Text](https://www.facebook.com){:target="_blank"}
+[Link Text](https://www.facebook.com){target="_blank"}
 
 
