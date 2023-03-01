@@ -42,5 +42,6 @@
 
 [Will-be-uploaded-soon-C2_W4_Assignment]()
 
-<a href="https://www.google.com" onclick="window.open(this.href, '_blank'); return false;">Link Text</a>
+[Link Text](https://www.facebook.com){:target="_blank"}
+
 
