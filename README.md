@@ -2,7 +2,7 @@
 ## By Raunak Kumar
 ### Course 1
 #### Week 1
-[C1_Week-1-Practice-Quiz](https://drive.google.com/file/d/1vPPfyZjQjtj-xPoSSYoANGexAtTMvxJV/view?usp=sharing){:target="_blank"}
+[C1_Week-1-Practice-Quiz](https://drive.google.com/file/d/1vPPfyZjQjtj-xPoSSYoANGexAtTMvxJV/view?usp=sharing)
 
 [C1_W1_Assignment](https://nbviewer.org/github/raunakkumar2110/courseera-course-nlp/blob/main/INT344%20Natural%20Language%20Processing/Course-1/Week%201/C1_W1_Assignment.ipynb)
 
@@ -42,4 +42,5 @@
 
 [Will-be-uploaded-soon-C2_W4_Assignment]()
 
-<a href="https://www.google.com" target="_blank">Link Text</a>
+<a href="https://www.google.com" onclick="window.open(this.href, '_blank'); return false;">Link Text</a>
+
