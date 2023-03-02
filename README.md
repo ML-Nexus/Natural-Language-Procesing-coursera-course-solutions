@@ -30,7 +30,7 @@
 #### Week 2
 [C2_Week-2-Practice-Quiz](https://drive.google.com/file/d/1BbtPN_7OCtd6p8dUtHU5NcWZLKk3vMFy/view?usp=sharing)
 
-[C2_W2_Assignment]()
+[C2_W2_Assignment(https://kokes.github.io/nbviewer.js/viewer.html#aHR0cHM6Ly9naXRodWIuY29tL3JhdW5ha2t1bWFyMjExMC9jb3Vyc2VlcmEtY291cnNlLW5scC9ibG9iL21haW4vSU5UMzQ0JTIwTmF0dXJhbCUyMExhbmd1YWdlJTIwUHJvY2Vzc2luZy9Db3Vyc2UtMi9XZWVrJTIwMi9DMl9XMl9Bc3NpZ25tZW50LmlweW5i)
 
 #### Week 3
 [Will-be-uploaded-soon-C2_Week-1-Practice-Quiz]()
