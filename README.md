@@ -28,9 +28,9 @@
 [C2_W1_Assignment](https://nbviewer.org/github/raunakkumar2110/courseera-course-nlp/blob/main/INT344%20Natural%20Language%20Processing/Course-2/Week%201/C2_W1_Assignment.ipynb)
 
 #### Week 2
-[Will-be-uploaded-soon-C2_Week-1-Practice-Quiz]()
+[C2_Week-2-Practice-Quiz](https://drive.google.com/file/d/1BbtPN_7OCtd6p8dUtHU5NcWZLKk3vMFy/view?usp=sharing)
 
-[Will-be-uploaded-soon-C2_W2_Assignment]()
+[C2_W2_Assignment]()
 
 #### Week 3
 [Will-be-uploaded-soon-C2_Week-1-Practice-Quiz]()
