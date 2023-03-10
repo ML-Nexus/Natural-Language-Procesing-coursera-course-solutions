@@ -33,9 +33,9 @@
 [C2_W2_Assignment](https://kokes.github.io/nbviewer.js/viewer.html#aHR0cHM6Ly9naXRodWIuY29tL3JhdW5ha2t1bWFyMjExMC9jb3Vyc2VlcmEtY291cnNlLW5scC9ibG9iL21haW4vSU5UMzQ0JTIwTmF0dXJhbCUyMExhbmd1YWdlJTIwUHJvY2Vzc2luZy9Db3Vyc2UtMi9XZWVrJTIwMi9DMl9XMl9Bc3NpZ25tZW50LmlweW5i)
 
 #### Week 3
-[Will-be-uploaded-soon-C2_Week-1-Practice-Quiz]()
+[C2_Week-1-Practice-Quiz](https://github.com/raunakkumar2110/courseera-course-nlp/blob/main/INT344%20Natural%20Language%20Processing/Course-2/Week%203/C2_Week%203%20Practice%20Quiz.pdf)
 
-[Will-be-uploaded-soon-C2_W3_Assignment]()
+[C2_W3_Assignment](https://github.com/raunakkumar2110/courseera-course-nlp/blob/main/INT344%20Natural%20Language%20Processing/Course-2/Week%203/C2_W3_Assignment.ipynb)
 
 #### Week 4
 [Will-be-uploaded-soon-C2_Week-1-Practice-Quiz]()
