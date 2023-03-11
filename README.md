@@ -38,9 +38,9 @@
 [C2_W3_Assignment](https://github.com/raunakkumar2110/courseera-course-nlp/blob/main/INT344%20Natural%20Language%20Processing/Course-2/Week%203/C2_W3_Assignment.ipynb)
 
 #### Week 4
-[Will-be-uploaded-soon-C2_Week-1-Practice-Quiz]()
+[C2_Week-1-Practice-Quiz](https://github.com/raunakkumar2110/courseera-course-nlp/blob/main/INT344%20Natural%20Language%20Processing/Course-2/Week%204/C2_Week%204%20Practice%20Quiz.pdf)
 
-[Will-be-uploaded-soon-C2_W4_Assignment]()
+[C2_W4_Assignment](https://github.com/raunakkumar2110/courseera-course-nlp/blob/main/INT344%20Natural%20Language%20Processing/Course-2/Week%204/C2_W4_Assignment.ipynb)
 
 
 
