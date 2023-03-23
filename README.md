@@ -41,3 +41,24 @@
 [C2_Week-1-Practice-Quiz](https://github.com/ML-Nexus/courseera-course-nlp/blob/main/INT344%20Natural%20Language%20Processing/Course-2/Week%204/C2_Week%204%20Practice%20Quiz.pdf)
 
 [C2_W4_Assignment](https://github.com/ML-Nexus/courseera-course-nlp/blob/main/INT344%20Natural%20Language%20Processing/Course-2/Week%204/C2_W4_Assignment.ipynb)
+
+### Course 3
+#### Week 1
+[C3_Week-1-Practice-Quiz](https://github.com/ML-Nexus/courseera-course-nlp/blob/main/INT344%20Natural%20Language%20Processing/Course-3/Week%201/C3_Week%201%20Practice%20Quiz.pdf)
+[C3_W1_Assignment](https://github.com/ML-Nexus/courseera-course-nlp/blob/main/INT344%20Natural%20Language%20Processing/Course-3/Week%201/C3_W1_Assignment.ipynb)
+
+#### Week 2
+[Will-be-updated-soon-C3_Week-2-Practice-Quiz]()
+
+[Will-be-updated-soon-C3_W2_Assignment]()
+
+#### Week 3
+[Will-be-updated-soon-C3_Week-1-Practice-Quiz]()
+
+[Will-be-updated-soon-C3_W3_Assignment]()
+
+#### Week 4
+[Will-be-updated-soon-C3_Week-1-Practice-Quiz]()
+
+[Will-be-updated-soon-C3_W4_Assignment]()
+
