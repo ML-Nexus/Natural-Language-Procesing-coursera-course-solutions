@@ -45,6 +45,7 @@
 ### Course 3
 #### Week 1
 [C3_Week-1-Practice-Quiz](https://github.com/ML-Nexus/courseera-course-nlp/blob/main/INT344%20Natural%20Language%20Processing/Course-3/Week%201/C3_Week%201%20Practice%20Quiz.pdf)
+
 [C3_W1_Assignment](https://github.com/ML-Nexus/courseera-course-nlp/blob/main/INT344%20Natural%20Language%20Processing/Course-3/Week%201/C3_W1_Assignment.ipynb)
 
 #### Week 2
