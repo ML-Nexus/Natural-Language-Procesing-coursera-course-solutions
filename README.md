@@ -1,5 +1,5 @@
 # Natural-Language-Procesing-coursera-course-solutions
-## By Raunak Kumar
+
 ### Course 1
 #### Week 1
 [C1_Week-1-Practice-Quiz](https://drive.google.com/file/d/1vPPfyZjQjtj-xPoSSYoANGexAtTMvxJV/view?usp=sharing)
